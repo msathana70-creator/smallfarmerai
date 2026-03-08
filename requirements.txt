@@ -1,0 +1,12 @@
+streamlit
+pandas
+plotly
+torch
+torchvision
+joblib
+pillow
+folium
+streamlit-folium
+geopy
+reportlab
+openpyxl
